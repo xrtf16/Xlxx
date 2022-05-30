@@ -18,5 +18,6 @@ dnspython
 gitpython
 ffmpeg-python
 python-dotenv
+heroku3
 youtube-search
 youtube-search-python
