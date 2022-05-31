@@ -11,8 +11,8 @@
         "mongodb",
         "pyrogram"
     ],
-    "website": "https://t.me/xl444",
-    "repository": "https://github.com/muntazer995/RR8R9",
+    "website": "https://t.me/",
+    "repository": "https://github.com",
     "success_url": "https://t.me/rr8r9",
     "env": {
      "API_ID": {
@@ -38,29 +38,29 @@
             "required": true
         },
         "MONGODB_URL": {
-            "description": "اكتب قاعدة البيانات",
+            "description": " اتركه) اكتب قاعدة البيانات",
             "required": true,
             "value": "mongodb+srv://vro:vro@cluster0.eyy25.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
         },
         "SUDO_USERS": {
             "description": "اكتب ايديات المطورين",
             "required": true,
-            "value": "1854384004"
+            "value": ""
         },
         "OWNER_ID": {
             "description": "اكتب ايدي مالك البوت",
             "required": true,
-            "value": "1854384004"
+            "value": ""
         },
         "OWNER_USERNAME": {
             "description": "اكتب معرف المطور بدون @",
             "required": true,
-            "value": "rr8r9"
+            "value": ""
         },
         "ALIVE_NAME": {
             "description": "اكتب اسم المطور",
             "required": true,
-            "value": "muntazer"
+            "value": ""
         }
     },
     "addons": [],
