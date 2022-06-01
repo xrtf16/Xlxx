@@ -11,19 +11,19 @@
         "mongodb",
         "pyrogram"
     ],
-    "website": "https://t.me/",
+    "website": "http://t.me/AIIPM",
     "repository": "https://github.com",
-    "success_url": "https://t.me/rr8r9",
+    "success_url": "http://t.me/AIIPM",
     "env": {
      "API_ID": {
             "description": "لاتغيرها ابدا",
             "required": true,
-            "value": "19399491"
+            "value": "19303151"
         },
      "API_HASH": {
             "description": "لاتغيرها ابدا",
             "required": true,
-            "value": "eaa4f266934dfef23edb6d1f25e0b10f"
+            "value": "69fcf6ca06865b043feef7d8948574f5"
         },
         "BOT_TOKEN": {
             "description": "اكتب توكن",
@@ -34,7 +34,7 @@
             "required": true
         },
         "SESSION_NAME": {
-            "description": "اكتب كود ترمكس",
+            "description": "اكتب كود بايروجرام",
             "required": true
         },
         "MONGODB_URL": {
@@ -45,22 +45,22 @@
         "SUDO_USERS": {
             "description": "اكتب ايديات المطورين",
             "required": true,
-            "value": ""
+            "value": "1277157702"
         },
         "OWNER_ID": {
             "description": "اكتب ايدي مالك البوت",
             "required": true,
-            "value": ""
+            "value": "1277157702"
         },
         "OWNER_USERNAME": {
             "description": "اكتب معرف المطور بدون @",
             "required": true,
-            "value": ""
+            "value": "O_8_F"
         },
         "ALIVE_NAME": {
             "description": "اكتب اسم المطور",
             "required": true,
-            "value": ""
+            "value": "simo"
         }
     },
     "addons": [],
