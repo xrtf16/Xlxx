@@ -42,7 +42,7 @@ async def start_set(_, query: CallbackQuery):
         f"""ههݪاެ حبيب [{query.message.chat.first_name}](tg://user?id={query.message.chat.id}) ❤️‍🔥\n
 اެناެ بَۅت بَمميࢪ࣪اެتَ متَعدَدةَ ݪتشغِيݪ اެݪاغاެنِي فَي اެݪمَجمَۅعاتَ 🥇.
 
--› MᥲᎥꪀƚᥲᎥꪀᥱძ ხy -› [S᥆ᥙrᥴᥱ Frᥱᥱძ᥆ꪔ](http://t.me/R125R)
+-› MᥲᎥꪀƚᥲᎥꪀᥱძ ხy -› [S᥆ᥙrᥴᥱ simo](http://t.me/AIIPM)
 """,
         reply_markup=InlineKeyboardMarkup(
             [
